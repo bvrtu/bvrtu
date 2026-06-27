@@ -14,11 +14,11 @@
 
 ## About me
 
-I am a final-year Software Engineering student at Izmir University of Economics, building projects across mobile development, AI-powered systems, RAG pipelines, and developer tooling.
+I am a graduate Software Engineering High Honor student at Izmir University of Economics, building projects across mobile development, AI-powered systems, RAG pipelines, and developer tooling.
 
 I enjoy turning ideas into usable products: mobile apps with polished user flows, retrieval systems that answer with grounded context, and tools that make software contracts easier to understand and maintain.
 
-- Software Engineering student, graduating in 2026
+- Software Engineering student, graduated in 2026
 - Mobile Application Developer Intern at Vestel in 2025
 - Interested in AI-assisted software, RAG systems, iOS/Flutter, APIs, and product-minded engineering
 - Comfortable working across Python, Swift, Dart, JavaScript/TypeScript, FastAPI, Firebase, and modern ML tooling
